@@ -53,7 +53,7 @@
 
 - 📩 **Email**: kashyapmalode09@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/kashyap-malode](https://www.linkedin.com/in/kashyap-malode)  
-- 📷 **Instagram (AgriEdits)**: [@agriedits](https://www.instagram.com/kashyap09m/)  
+- 📷 **Instagram**: [@agriedits](https://www.instagram.com/kashyap09m/)  
 
 ---
 
@@ -66,8 +66,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kashyap09m&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kashyap09m&theme=darkhub&no-bg=true&no-frame=true" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap09m&layout=compact&theme=algolia&langs_count=8" alt="Top Languages" />
