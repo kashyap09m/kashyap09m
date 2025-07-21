@@ -53,7 +53,7 @@
 
 - 📩 **Email**: kashyapmalode09@gmail.com  
 - 💼 **LinkedIn**: [linkedin.com/in/kashyap-malode](https://www.linkedin.com/in/kashyap-malode)  
-- 📷 **Instagram**: [@agriedits](https://www.instagram.com/kashyap09m/)  
+- 📷 **Instagram**: [kashyap09m](https://www.instagram.com/kashyap09m/)  
 
 ---
 
