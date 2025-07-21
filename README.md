@@ -1,17 +1,83 @@
-<h1 align="center">Hi 👋, I'm Kashyap</h1>
-<h3 align="center">I am E&TC Engineer <br>  I have a passion for coding and working with electronics.</h3>
+<h1 align="center">Hi there! 👋 I'm Kashyap Malode</h1>
 
-- 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **kashyapmalode09@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kashyap09_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kashyap09_m" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kashyap-malode-695690222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashyap-malode-695690222" height="30" width="40" /></a>
+<p align="center">
+  🚀 Bridging Electronics & Intelligent Software | 👨‍💻 Big Data • AI/ML • IoT • MERN Stack
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashyap09m&show_icons=true&locale=en" alt="kashyap09m" /></p>
+### 👨‍🎓 About Me
+
+- 🎓 Electronics & Telecommunication Engineering Graduate  
+- 📊 Pursuing a Diploma in Big Data Analytics  
+- 💡 Passionate about combining hardware & software to build intelligent, real-world solutions  
+- 🛠️ Working with technologies like Python, Java, SQL, MongoDB, Spark, Hadoop, React, FastAPI & more  
+- 🧠 Interests: Machine Learning, Generative AI, Embedded Systems, Full-Stack Dev  
+- 🇮🇳 Based in India | 💬 Fluent in English, Hindi, and Marathi
+
+---
+
+### 🧠 Current Focus Areas
+
+- 🔹 **Big Data Ecosystem**: Hadoop, Hive, HBase, Kafka, Spark, Airflow  
+- 🔹 **Cloud Computing**: AWS Certified (Cloud Foundation)  
+- 🔹 **AI/ML Projects**: Classification, NLP, Transformers, Generative AI APIs  
+- 🔹 **Frontend**: HTML, CSS, JS, React.js, TailwindCSS  
+- 🔹 **Backend**: Node.js, Express, FastAPI  
+- 🔹 **Databases**: MongoDB, MySQL, Firebase  
+
+---
+
+### 🛠️ Projects I'm Building
+
+#### 🚀 TechMate: *Collaborate. Innovate. Succeed.*
+> A project matchmaking platform (like Tinder!) where students can form teams based on skill compatibility.  
+Tech stack: `MERN`, `TailwindCSS`, `Node.js`, `MongoDB`, `Heroku`
+
+#### 🤖 GovBot: Government Scheme Awareness Chatbot
+> NLP-based chatbot to help rural/non-tech users understand eligibility & apply for Indian govt. schemes  
+Tech stack: `Python`, `Scrapy`, `spaCy`, `GPT`, `MongoDB`, `React`, `Flask`
+
+#### 🧠 API Prompt Automation via Gen AI
+> Generate and trigger correct API calls just by natural language input  
+Stack: `React`, `Tailwind`, `FastAPI`, `GPT`, `MongoDB`, `Vercel`, `Render`
+
+---
+
+### 📊 Skills & Tools
+
+#### 💻 Programming
+`Python` • `Java` • `SQL` • `JavaScript` • `R`  
+#### 🧰 Tools & Frameworks
+`VS Code` • `Jupyter` • `Git` • `Node.js` • `MongoDB Atlas` • `Firebase`  
+#### 📈 Analytics & AI/ML
+`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Plotly` • `BeautifulSoup` • `Transformers`  
+#### ☁️ Cloud & Big Data
+`AWS` • `Hadoop` • `Spark` • `Kafka` • `Airflow` • `Hive` • `HBase`  
+
+---
+
+### 📌 Fun Facts
+
+- ✍️ Writing a poem series: *For Her, From Afar* ❤️  
+- 🌿 Run an Instagram page: [**AgriEdits**] for agri/farming-themed content  
+- 🧪 Love blending electronics + AI in projects like sensor-based automation with ML  
+- 🧑‍🏫 Always hungry to learn more & build open-source tools that *simplify complex systems*
+
+---
+
+### 📫 Let's Connect!
+
+- 📩 **Email**: kashyap.malode2000@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/kashyap-malode](https://www.linkedin.com/in/kashyap-malode)  
+- 📷 **Instagram (AgriEdits)**: [@agriedits](https://www.instagram.com/agriedits/)  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=algolia&hide_border=true" />
+</p>
+
+---
+
+> ⚡ *"Combining circuits and code to spark real-world innovation!"*
