@@ -9,7 +9,7 @@
 ### 👨‍🎓 About Me
 
 - 🎓 Electronics & Telecommunication Engineering Graduate  
-- 📊 Pursuing a Diploma in Big Data Analytics  
+- 📊 Completed a Diploma in Big Data Analytics  
 - 💡 Passionate about combining hardware & software to build intelligent, real-world solutions  
 - 🛠️ Working with technologies like Python, Java, SQL, MongoDB, Spark, Hadoop Ecosystem, FastAPI & more  
 - 🧠 Interests: Machine Learning, Generative AI,Stock Market, Playing CRICKET and KABADDI
