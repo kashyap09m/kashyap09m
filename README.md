@@ -30,11 +30,11 @@
 ### 📊 Skills & Tools
 
 #### 💻 Programming
-`Python` • `Java` • `SQL` • `` • `R`  
+`Python` • `Java` • `SQL`  • `R`  
 #### 🧰 Tools & Frameworks
-`VS Code` • `Jupyter` • `Git` • `` • `MongoDB Atlas` • `Firebase`  
+`VS Code` • `Jupyter` • `Git`  • `MongoDB Atlas` • 
 #### 📈 Analytics & AI/ML
-`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Plotly` • `BeautifulSoup` • `Transformers`  
+`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib` • `Plotly` • `BeautifulSoup` • `Transformers`  • `NLP` • `RAG` • `LangChain` • `Power BI & Excel `
 #### ☁️ Cloud & Big Data
 `AWS` • `Hadoop` • `Spark` • `Kafka` • `Airflow` • `Hive` • `HBase`  
 
