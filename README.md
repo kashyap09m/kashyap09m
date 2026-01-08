@@ -57,23 +57,6 @@
 
 ---
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashyap09m&show_icons=true&theme=algolia&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kashyap09m&theme=darkhub&no-bg=true&no-frame=true" />
-</p>
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashyap09m&layout=compact&theme=algolia&langs_count=8" alt="Top Languages" />
-</p>
-
 
 ---
 
